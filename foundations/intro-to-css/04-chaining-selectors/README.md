@@ -1,5 +1,7 @@
 # Chaining Selectors
 
+![Complete](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.arX_Wx4oD450A8iUDGcUIQHaF5%26pid%3DApi&f=1&ipt=76c4a58555dfe51d591ffd62e1a281d85af6764ddcf87643b65ec787418bd589&ipo=images)
+# Complete!
 Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
 
 

@@ -1,6 +1,6 @@
 # Grouping Selectors
 
-![Complete] (https://i.pinimg.com/236x/84/cb/99/84cb9956110abc9a9ea44abe6fa2a48b.jpg)
+![Complete](https://i.pinimg.com/236x/84/cb/99/84cb9956110abc9a9ea44abe6fa2a48b.jpg)
 # Complete! 
 Let's build a little off the previous exercise. Here, you're going to give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles. Make sure you take a good look at the outcome image below to see exactly what is unique about each element, and what both elements have in common.
 
